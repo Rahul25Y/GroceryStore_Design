@@ -72,7 +72,7 @@ function Footer() {
             <h1 className=' text-4xl font-bold'>Follow Us</h1>
            <div>
             <p>+1 (123) 456-7890</p>
-            <p>Noida, Uttar Pradesh</p>
+            <p>Indore,Madhya Pradesh </p>
            </div>
            <div className='flex items-center gap-4'>
             <FaFacebook className=' text-3xl hover:scale-115 duration-200'/>
