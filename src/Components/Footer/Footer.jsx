@@ -71,7 +71,7 @@ function Footer() {
         <div className=' space-y-6'> 
             <h1 className=' text-4xl font-bold'>Follow Us</h1>
            <div>
-            <p>+1 (123) 456-7890</p>
+            <p>+91 (123) 456-7890</p>
             <p>Indore,Madhya Pradesh </p>
            </div>
            <div className='flex items-center gap-4'>
